@@ -1,3 +1,5 @@
+# https://github.com/ah7rfu/powershellptwarray/edit/master/Auslesen_PTW_mcc_Array_729v0001.ps1 steht unter der MIT License
+#
 # Pfad zur PTW Messdatei, Dateiendung .mcc
 # Es handelt sich um eine Messdatei vom PTW Array 729
 
