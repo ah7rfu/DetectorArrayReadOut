@@ -1,1 +1,1 @@
-# powershellptwarray
+# DetectorArrayReadOut
