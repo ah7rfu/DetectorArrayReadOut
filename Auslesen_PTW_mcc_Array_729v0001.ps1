@@ -1,19 +1,11 @@
-# https://github.com/ah7rfu/powershellptwarray/edit/master/Auslesen_PTW_mcc_Array_729v0001.ps1 steht unter der MIT License
-#
-# Pfad zur PTW Messdatei, Dateiendung .mcc
-# Es handelt sich um eine Messdatei vom PTW Array 729
+# 
 
-# Informationen zur Erstellung dieses Skriptes stammen, u.a. von http://techgenix.com/read-text-file-powershell/
-# weiter interessante Links https://www.youtube.com/watch?v=YrZLCDsh5a0
-# https://blog.stefanrehwald.de/2013/03/05/powershell-04-textdatei-auslesen-bearbeiten-anlegen-befullen/
-# https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ee176843(v=technet.10)?redirectedfrom=MSDN
-# https://powershellexplained.com/2017-03-18-Powershell-reading-and-saving-data-to-files/
 
 $Nachkommastellen = 4
 
 # path - input
-$inputClosed = "C:\Users\christoph\Downloads\PTWFiles\0X0 VER 200429 16'16 close.mcc"
-$inputopen = "C:\Users\christoph\Downloads\PTWFiles\0X0 VER 200429 16'15.mcc"
+$inputClosed = "C:\Users\christoph\Downloads\DetectorArrayReadOut\0X0 VER 200429 16'16 close.mcc"
+$inputopen = "C:\Users\christoph\Downloads\DetectorArrayReadOut\0X0 VER 200429 16'15.mcc"
 
 
 # path - output
